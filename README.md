@@ -1,4 +1,4 @@
-# Hi, I'm [Kailen!](www.kailenswensen.com) 👋
+# Hi, I'm [Kailen!](https://www.kailenswensen.com) 👋
 #### I'm an...
 - audio programmer
 - sound designer
